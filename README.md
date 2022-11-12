@@ -7,6 +7,7 @@ O site possui algumas funções em JavaScript como Menu Mobile, transição de s
 
 
 A proposta inicial do projeto 
-image.png
+$ifdcmzvt8d.png
 
 Como ficou o projeto
+image.png
