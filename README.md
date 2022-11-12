@@ -6,8 +6,7 @@ Como projeto final deste curso foi desenvolvido um site para uma Agência de Adv
 O site possui algumas funções em JavaScript como Menu Mobile, transição de slides no cabeçalho e um scroll suave pelas sessões ao clicar em seus links no menu.
 
 
-A proposta inicial do projeto 
-$ifdcmzvt8d.png
+O Projeto
+![$ifdcmzvt8d](https://user-images.githubusercontent.com/103325619/201473751-ac050618-4d05-4a1e-935d-a33d9f0dc6e3.png)
 
-Como ficou o projeto
-image.png
+
